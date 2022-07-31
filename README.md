@@ -4,7 +4,7 @@
 Code for light response curves for Robichaud and Rooney (Biological Invasions)
 
 - `Data` contains carbon assimilation rates for each phytometer at different measures of PAR (1500, 1000, 500, 200, 100, 50, 0) 
-- `Script` contains the light response curves, light compensation point and light saturation point calculations obtained from Heberling et al. 2017 (https://doi.org/10.1093/aobpla/plx011). Loop to generate results was written by Jody Daniel (https://jodyndaniel.wixsite.com/website)
+- `Script` contains the light response curves, light compensation point and light saturation point calculations obtained from [Heberling et al. 2017](https://doi.org/10.1093/aobpla/plx011). Loop to generate results was written by [Jody Daniel](https://jodyndaniel.wixsite.com/website)
 
 Additional data can be found on FigShare
 
