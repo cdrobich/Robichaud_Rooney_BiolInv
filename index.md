@@ -11,12 +11,18 @@ A hypothesis in invasion ecology is that high impact invasive plants will have a
 
 #### Data and Scripts
 
-* All data used in the article can be found here [Link](https://github.com/cdrobich/PhD1.ResourceCompetition/tree/master/Scripts)
-* Scripts for analyses and generating figures can be found here [Link](https://github.com/cdrobich/PhD1.ResourceCompetition/tree/master/Scripts)
+* Carbon assimilation rate data can be found here [Link](https://github.com/cdrobich/Robichaud_Rooney_BiolInv/tree/main/Data)
+  * Additional data on FigShare:
+      * Robichaud, Courtney; Rooney, Rebecca (2021): Leaf nutrient and isotope data. figshare. [Dataset](https://doi.org/10.6084/m9.figshare.14737869.v2)
+      * Robichaud, Courtney; Rooney, Rebecca (2021): Phytometer biomass. figshare. [Dataset](https://doi.org/10.6084/m9.figshare.14737878.v1)
+      * Robichaud, Courtney; Rooney, Rebecca (2021): Niche resource measurements. figshare. [Dataset](https://doi.org/10.6084/m9.figshare.14737866.v1)
+      * Robichaud, Courtney; Rooney, Rebecca (2021): Carbon assimilation and WUE. figshare. [Dataset](https://doi.org/10.6084/m9.figshare.14737857.v1)
 
+* Scripts for photosynthesis calculations [Link](https://github.com/cdrobich/Robichaud_Rooney_BiolInv/tree/main/Scripts)
+  * Additional scripts are available [here](https://github.com/cdrobich/ResourceCompetition)
 
 
 ------------------
 #### Citation ####
 
-> Robichaud, C.D., Rooney, R.C. Differences in above-ground resource acquisition and niche overlap between a model invader (Phragmites australis) and resident plant species: measuring the role of fitness and niche differences in the field. Biol Invasions 24, 649–682 (2022). [Link](https://rdcu.be/cSKSV)
+> Robichaud, C.D., Rooney, R.C. Differences in above-ground resource acquisition and niche overlap between a model invader *(Phragmites australis)* and resident plant species: measuring the role of fitness and niche differences in the field. *Biological Invasions* 24, 649–682 (2022). [Link](https://rdcu.be/cSKSV)
